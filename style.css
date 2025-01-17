@@ -69,10 +69,10 @@ a{
 .header{
     background-color: #1391CEB2;
     padding-top: 41px;
-    /* position: sticky;
+    position: sticky;
     top: 0;
     left: 0;
-    z-index: 10; */
+    z-index: 10;
 }
 .navbar{
     width: 100%;
